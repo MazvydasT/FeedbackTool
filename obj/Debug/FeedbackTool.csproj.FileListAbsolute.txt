@@ -1,0 +1,13 @@
+c:\users\mtadarav\documents\visual studio 2012\Projects\FeedbackTool\FeedbackTool\bin\Debug\FeedbackTool.exe.config
+c:\users\mtadarav\documents\visual studio 2012\Projects\FeedbackTool\FeedbackTool\bin\Debug\FeedbackTool.exe
+c:\users\mtadarav\documents\visual studio 2012\Projects\FeedbackTool\FeedbackTool\bin\Debug\FeedbackTool.pdb
+c:\users\mtadarav\documents\visual studio 2012\Projects\FeedbackTool\FeedbackTool\obj\Debug\MainWindow.baml
+c:\users\mtadarav\documents\visual studio 2012\Projects\FeedbackTool\FeedbackTool\obj\Debug\MainWindow.g.cs
+c:\users\mtadarav\documents\visual studio 2012\Projects\FeedbackTool\FeedbackTool\obj\Debug\App.g.cs
+c:\users\mtadarav\documents\visual studio 2012\Projects\FeedbackTool\FeedbackTool\obj\Debug\FeedbackTool_MarkupCompile.cache
+c:\users\mtadarav\documents\visual studio 2012\Projects\FeedbackTool\FeedbackTool\obj\Debug\FeedbackTool.g.resources
+c:\users\mtadarav\documents\visual studio 2012\Projects\FeedbackTool\FeedbackTool\obj\Debug\FeedbackTool.Properties.Resources.resources
+c:\users\mtadarav\documents\visual studio 2012\Projects\FeedbackTool\FeedbackTool\obj\Debug\FeedbackTool.csproj.GenerateResource.Cache
+c:\users\mtadarav\documents\visual studio 2012\Projects\FeedbackTool\FeedbackTool\obj\Debug\FeedbackTool.exe
+c:\users\mtadarav\documents\visual studio 2012\Projects\FeedbackTool\FeedbackTool\obj\Debug\FeedbackTool.pdb
+C:\Users\mtadarav\Documents\Visual Studio 2012\Projects\FeedbackTool\FeedbackTool\obj\Debug\FeedbackTool.csprojResolveAssemblyReference.cache
